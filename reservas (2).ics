@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KYO Hostel//BananaDesk Export//ES
+X-WR-CALNAME:KYO Hostel · Reservas
+X-WR-TIMEZONE:Atlantic/Canary
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:bananadesk-2273748742@kyohostel
+DTSTAMP:20260220T123736Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260222
+SUMMARY:Lorcane BAZIN
+DESCRIPTION:Canal: Booking.com\nEstado: Confirmado\nNúm. Adultos: 1\nNúm. Niños: 0\nPrecio en €: 47.04\nEmail: lorcanebazin@yahoo.com\nHora llegada: 08:30:00\nNota: ** THIS RESERVATION HAS BEEN PRE-PAID ** If there is a possibility of having a room with a balcony it would be amazing! Thanks! BOOKING NOTE : Payment charge is EUR 0.57148 Booker is genius
+LOCATION:Calufa
+X-NUM-GUESTS:1
+X-NUM-ADULTS:1
+X-NUM-CHILDREN:0
+X-TOTAL-PRICE:47.04
+ATTENDEE;RSVP=FALSE;CN=Lorcane BAZIN:mailto:lorcanebazin@yahoo.com
+END:VEVENT
+BEGIN:VEVENT
+UID:bananadesk-2360244081@kyohostel
+DTSTAMP:20260220T123736Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260223
+SUMMARY:Thorsten Henatsch
+DESCRIPTION:Canal: Booking.com\nEstado: Confirmado\nNúm. Adultos: 1\nNúm. Niños: 0\nPrecio en €: 55.58\nEmail: thenat.424896@guest.booking.com\nNota: ** THIS RESERVATION HAS BEEN PRE-PAID ** BOOKING NOTE : Payment charge is EUR 0.72254 Booker is genius
+LOCATION:Aguita (8-people)
+X-NUM-GUESTS:1
+X-NUM-ADULTS:1
+X-NUM-CHILDREN:0
+X-TOTAL-PRICE:55.58
+ATTENDEE;RSVP=FALSE;CN=Thorsten Henatsch:mailto:thenat.424896@guest.booking.com
+END:VEVENT
+BEGIN:VEVENT
+UID:bananadesk-3166818684@kyohostel
+DTSTAMP:20260220T123736Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260223
+SUMMARY:Richelly Oliveira
+DESCRIPTION:Canal: Booking.com\nEstado: Confirmado\nNúm. Adultos: 2\nNúm. Niños: 0\nPrecio en €: 108.56\nEmail: rolive.132604@guest.booking.com\nNota: ** THIS RESERVATION HAS BEEN PRE-PAID ** BOOKING NOTE : Payment charge is EUR 1.31898 Booker is genius
+LOCATION:Risco •with seperate shower•
+X-NUM-GUESTS:2
+X-NUM-ADULTS:2
+X-NUM-CHILDREN:0
+X-TOTAL-PRICE:108.56
+ATTENDEE;RSVP=FALSE;CN=Richelly Oliveira:mailto:rolive.132604@guest.booking.com
+END:VEVENT
+BEGIN:VEVENT
+UID:bananadesk-4573693352@kyohostel
+DTSTAMP:20260220T123736Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260224
+SUMMARY:Mario Doll
+DESCRIPTION:Canal: Booking.com\nEstado: Confirmado\nNúm. Adultos: 1\nNúm. Niños: 0\nPrecio en €: 70.29\nEmail: mdoll.731009@guest.booking.com\nNota: ** THIS RESERVATION HAS BEEN PRE-PAID ** BOOKING NOTE : Payment charge is EUR 0.8541 Booker is genius
+LOCATION:Calufa
+X-NUM-GUESTS:1
+X-NUM-ADULTS:1
+X-NUM-CHILDREN:0
+X-TOTAL-PRICE:70.29
+ATTENDEE;RSVP=FALSE;CN=Mario Doll:mailto:mdoll.731009@guest.booking.com
+END:VEVENT
+BEGIN:VEVENT
+UID:bananadesk-4484180479@kyohostel
+DTSTAMP:20260220T123736Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260225
+SUMMARY:Jieun Kim
+DESCRIPTION:Canal: Booking.com\nEstado: Confirmado\nNúm. Adultos: 1\nNúm. Niños: 0\nPrecio en €: 112.10\nEmail: kzctkc.292950@guest.booking.com\nNota: ** THIS RESERVATION HAS BEEN PRE-PAID ** BOOKING NOTE : Payment charge is EUR 1.4573 NonSmoke
+LOCATION:Charco
+X-NUM-GUESTS:1
+X-NUM-ADULTS:1
+X-NUM-CHILDREN:0
+X-TOTAL-PRICE:112.10
+ATTENDEE;RSVP=FALSE;CN=Jieun Kim:mailto:kzctkc.292950@guest.booking.com
+END:VEVENT
+BEGIN:VEVENT
+UID:bananadesk-3392670256@kyohostel
+DTSTAMP:20260220T123736Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260223
+SUMMARY:Jarl Asger Koustrup
+DESCRIPTION:Canal: Booking.com\nEstado: Sin confirmar\nNúm. Adultos: 1\nNúm. Niños: 0\nPrecio en €: 46.24\nEmail: jkoust.797645@guest.booking.com\nNota: ** THIS RESERVATION HAS BEEN PRE-PAID ** BOOKING NOTE : Payment charge is EUR 0.56186 Booker is genius
+LOCATION:Calufa
+X-NUM-GUESTS:1
+X-NUM-ADULTS:1
+X-NUM-CHILDREN:0
+X-TOTAL-PRICE:46.24
+ATTENDEE;RSVP=FALSE;CN=Jarl Asger Koustrup:mailto:jkoust.797645@guest.booking.com
+END:VEVENT
+END:VCALENDAR
